@@ -9,7 +9,7 @@ git clone https://github.com/IngenieroRicardo/readbin
 cd readbin
 git clone https://github.com/IngenieroRicardo/Agenda
 go build readbin.go
-./readbin Conexion.dll
+./readbin Agenda/Conexion.dll
 ```
 
 
