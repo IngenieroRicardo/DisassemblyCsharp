@@ -7,9 +7,9 @@ Esta aplicacion fue creada para aplicarle un analisis hexadecimal usando: https:
 ```bash
 git clone https://github.com/IngenieroRicardo/readbin
 cd readbin
-git clone https://github.com/IngenieroRicardo/Agenda
+git clone https://github.com/IngenieroRicardo/DisassemblyCsharp
 go build readbin.go
-./readbin Agenda/Conexion.dll
+./readbin DisassemblyCsharp/Conexion.dll
 ```
 
 
